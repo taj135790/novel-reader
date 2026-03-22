@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_import"
+        android:icon="@drawable/ic_import"
+        android:title="@string/menu_import"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_directory"
+        android:icon="@drawable/ic_directory"
+        android:title="@string/menu_directory"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_settings"
+        android:icon="@drawable/ic_settings"
+        android:title="@string/menu_settings"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_tts"
+        android:icon="@drawable/ic_tts"
+        android:title="@string/menu_tts"
+        app:showAsAction="ifRoom" />
+
+</menu>

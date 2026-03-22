@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data-extraction-rules>
+    <cloud-backup>
+        <include domain="file" path="novels/" />
+        <include domain="database" path="novel_reader.db" />
+        <include domain="sharedpref" path="novel_reader_preferences.xml" />
+    </cloud-backup>
+    
+    <device-transfer>
+        <include domain="file" path="novels/" />
+        <include domain="database" path="novel_reader.db" />
+        <include domain="sharedpref" path="novel_reader_preferences.xml" />
+    </device-transfer>
+</data-extraction-rules>

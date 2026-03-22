@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">小说阅读器</string>
+    <string name="menu_import">导入小说</string>
+    <string name="menu_settings">设置</string>
+    <string name="menu_directory">目录</string>
+    <string name="menu_tts">朗读</string>
+    <string name="menu_pause">暂停</string>
+    <string name="menu_stop">停止</string>
+    <string name="title_settings">阅读设置</string>
+    <string name="title_font_size">字体大小</string>
+    <string name="title_line_spacing">行间距</string>
+    <string name="title_letter_spacing">字间距</string>
+    <string name="title_chapters">章节列表</string>
+    <string name="hint_search_chapter">搜索章节</string>
+    <string name="msg_no_novel">暂无小说，请先导入TXT文件</string>
+    <string name="msg_import_success">导入成功</string>
+    <string name="msg_import_failed">导入失败</string>
+    <string name="msg_tts_not_available">语音引擎不可用</string>
+</resources>

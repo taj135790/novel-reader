@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <!-- 备份应用数据 -->
+    <include domain="file" path="novels/" />
+    <include domain="database" path="novel_reader.db" />
+    <include domain="sharedpref" path="novel_reader_preferences.xml" />
+</full-backup-content>
